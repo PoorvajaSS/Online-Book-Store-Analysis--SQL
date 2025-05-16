@@ -20,7 +20,9 @@ Objective :
 
 4.Inventory and Sales Analysis:
     1. Calculate total stock and identify low-stock books.
+    
     2. Find the most and least expensive books.
+    
     3. Compute total revenue and analyze sales performance.
 
 5. Advanced Data Insights:
