@@ -32,7 +32,10 @@ Objective :
     4. Calculate remaining inventory after orders.
   
 7. Documentation & Usability:
-   1. Provide clear documentation and sample queries to help users understand and utilize the database for various analytical needs.
+    1. Provide clear documentation and sample queries to help users understand and utilize the database for various analytical needs.
+
+
+
 
 
 
