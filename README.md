@@ -18,21 +18,20 @@ Objective :
     1. Listing books by genre or publication year.
     2. Retrieving customer details by location.
 
-4.Inventory and Sales Analysis:
+4. Inventory and Sales Analysis:
+   
     1. Calculate total stock and identify low-stock books.
-    
     2. Find the most and least expensive books.
-    
     3. Compute total revenue and analyze sales performance.
 
-5. Advanced Data Insights:
+6. Advanced Data Insights:
     Implement advanced SQL queries to:
     1. Analyze sales by genre and author.
     2. Identify top customers and most popular books.
     3. Track customer order patterns and high-value transactions.
     4. Calculate remaining inventory after orders.
   
-6. Documentation & Usability:
+7. Documentation & Usability:
    1. Provide clear documentation and sample queries to help users understand and utilize the database for various analytical needs.
 
 
